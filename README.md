@@ -52,4 +52,4 @@ We split our data into test and train and deploy our **Multiple Linear Regressio
 
 ### Result
 
-The accuracy of our model comes out to be about $77\%$.
+The accuracy of our model comes out to be about 77%.
