@@ -9,9 +9,9 @@ Multiple Linear Regression Model
 4. Expolratory Data Analysis
 5. Feature Engineering
 6. Modelling
- * Independent and Dependent variables
- * Test Train Split
- * Multiple Linear Regression Model
+   * Independent and Dependent variables
+   * Test Train Split
+   * Multiple Linear Regression Model
 7. Evaluation
 8. Conclusion
 
